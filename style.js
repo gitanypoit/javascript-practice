@@ -1,8 +1,8 @@
-
 //silgle line comment 
 /*
 multi line
 comment
 */
-console.log(Eskedar);
-console.log(Engera);
+
+const name = console.log("eskedar");
+const name = console.log("Engera")
